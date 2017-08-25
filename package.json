@@ -1,0 +1,19 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "demo modules",
+  "main": "foo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luutien18195/demoModules.git"
+  },
+  "author": "LuuTien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luutien18195/demoModules/issues"
+  },
+  "homepage": "https://github.com/luutien18195/demoModules#readme"
+}
